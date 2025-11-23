@@ -1,0 +1,245 @@
+[
+  {
+    "nome": "Capitão América - Admirável mundo Novo",
+    "descricao": "Anthony Mackie retorna como o herói Sam Wilson, que assumiu oficialmente o manto do Capitão América. Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele precisa descobrir o motivo por trás de uma trama global nefasta antes que o verdadeiro mentor faça o mundo inteiro entrar em pânico..",
+    "data_lancamento": "2024",
+    "link_oficial": "https://www.marvel.com/movies/captain-america-brave-new-world",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericabravenewworld_lob_crd_01.jpg",
+    "elenco": [
+      "Anthony Mackie, Danny Ramirez, Shira Haas, Xosha Roquemore, Carl Lumbly, Giancarlo Esposito, Liv Tyler, Tim Blake Nelson e Harrison Ford"
+    ]
+  },
+  {
+    "nome": "Deadpool e Wolverine",
+    "descricao": "Em Deadpool & Wolverine, da Marvel Studios, Wade Wilson deixa para trás seu passado como o moralmente ambíguo Deadpool, até que de repente se vê lutando pela sobrevivência de seu planeta natal e precisa vestir o uniforme novamente — e convencer um relutante Wolverine a ajudá-lo.",
+    "data_lancamento": "2024",
+    "link_oficial": "https://www.marvel.com/movies/deadpool-and-wolverine",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/deadpoolandwolverine_lob_crd_01.jpg",
+    "elenco": [
+      "Ryan Reynolds, Hugh Jackman, Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Karan Soni e Matthew Macfadyen."
+    ]
+  },
+  {
+    "nome": "Agatha All Along",
+    "descricao": "Três anos depois de ficar presa na cidade de Westview, a bruxa Agatha Harkness escapa com a ajuda de um adolescente gótico. Juntos, eles enfrentam as provações da lendária Estrada das Bruxas para que ela possa recuperar seus poderes. [12, 24, 29]",
+    "data_lancamento": "2024",
+    "link_oficial": "https://www.marvel.com/tv-shows/agatha-all-along/1",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agathaallalong_lob_crd_01.jpg",
+    "elenco": [
+      "Kathryn Hahn",
+      "Joe Locke",
+      "Debra Jo Rupp",
+      "Aubrey Plaza",
+      "Patti LuPone"
+    ]
+  },
+  {
+    "nome": "Thunderbolts*",
+    "descricao": "Uma equipe de anti-heróis e ex-vilões é recrutada pelo governo para missões de alto risco, confrontando seus passados e traumas. [9, 18]",
+    "data_lancamento": "2025",
+    "link_oficial": "https://www.marvel.com/movies/thunderbolts",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thunderbolts_lob_crd_01.jpg",
+    "elenco": [
+      "Florence Pugh",
+      "Sebastian Stan",
+      "David Harbour",
+      "Wyatt Russell",
+      "Hannah John-Kamen",
+      "Olga Kurylenko",
+      "Julia Louis-Dreyfus"
+    ]
+  },
+  {
+    "nome": "Daredevil: Born Again",
+    "descricao": "Matt Murdock, um advogado cego com sentidos extraordinários, atua como o vigilante Demolidor durante a noite para proteger a Cozinha do Inferno, em Nova York. [27]",
+    "data_lancamento": "2025",
+    "link_oficial": "https://www.marvel.com/tv-shows/daredevil-born-again/1",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilbornagain_lob_crd_01.jpg",
+    "elenco": ["Charlie Cox", "Vincent D'Onofrio", "Jon Bernthal", "Deborah Ann Woll", "Elden Henson"]
+  },
+  {
+    "nome": "Homem de Ferro",
+    "descricao": "Tony Stark, um industrial bilionário e inventor genial, é sequestrado e forçado a construir uma arma devastadora. Em vez disso, usando sua inteligência e engenhosidade, Stark constrói uma armadura de alta tecnologia e escapa do cativeiro. Ao descobrir uma trama nefasta com implicações globais, ele veste sua poderosa armadura e jura proteger o mundo como o Homem de Ferro.",
+    "data_lancamento": "2008",
+    "link_oficial": "https://www.marvel.com/movies/iron-man",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman_lob_crd_01_3.jpg",
+    "elenco": ["Robert Downey Jr.", "Gwyneth Paltrow", "Terrence Howard", "Jeff Bridges"]
+  },
+  {
+    "nome": "O Incrível Hulk",
+    "descricao": "O cientista Bruce Banner busca desesperadamente uma cura para a radiação gama que envenenou suas células e o transforma no incontrolável Hulk. Vivendo nas sombras, ele é caçado pelo exército e por seu próprio inimigo, o Abominável.",
+    "data_lancamento": "2008",
+    "link_oficial": "https://www.marvel.com/movies/the-incredible-hulk",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theincrediblehulk_lob_crd_01_2.jpg",
+    "elenco": ["Edward Norton", "Liv Tyler", "Tim Roth", "William Hurt"]
+  },
+  {
+    "nome": "Homem de Ferro 2",
+    "descricao": "Com o mundo agora ciente de sua identidade como Homem de Ferro, Tony Stark enfrenta pressão do governo, da imprensa e do público para compartilhar sua tecnologia com os militares. Ele deve forjar novas alianças e confrontar um novo e poderoso inimigo.",
+    "data_lancamento": "2010",
+    "link_oficial": "https://www.marvel.com/movies/iron-man-2",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman2_lob_crd_01_3.jpg",
+    "elenco": ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johansson", "Mickey Rourke"]
+  },
+  {
+    "nome": "Thor",
+    "descricao": "O arrogante guerreiro Thor é banido de Asgard para a Terra, onde é forçado a viver entre os humanos. Quando o vilão mais perigoso de seu mundo envia as forças mais sombrias de Asgard, Thor aprende o que é preciso para ser um verdadeiro herói.",
+    "data_lancamento": "2011",
+    "link_oficial": "https://www.marvel.com/movies/thor",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thor_lob_crd_01_3.jpg",
+    "elenco": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins"]
+  },
+  {
+    "nome": "Capitão América: O Primeiro Vingador",
+    "descricao": "Durante a Segunda Guerra Mundial, Steve Rogers, um jovem franzino, se voluntaria para um programa experimental que o transforma no Super-Soldado conhecido como Capitão América. Ele luta contra a organização maligna HIDRA, liderada pelo Caveira Vermelha.",
+    "data_lancamento": "2011",
+    "link_oficial": "https://www.marvel.com/movies/captain-america-the-first-avenger",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericathefirstavenger_lob_crd_01_3.jpg",
+    "elenco": ["Chris Evans", "Hayley Atwell", "Sebastian Stan", "Hugo Weaving"]
+  },
+  {
+    "nome": "Os Vingadores",
+    "descricao": "Nick Fury, diretor da agência de paz S.H.I.E.L.D., recruta uma equipe de super-heróis para formar os Vingadores e impedir que o traiçoeiro Loki e seu exército alienígena escravizem a humanidade.",
+    "data_lancamento": "2012",
+    "link_oficial": "https://www.marvel.com/movies/the-avengers",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_01_4.jpg",
+    "elenco": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner"]
+  },
+  {
+    "nome": "Homem de Ferro 3",
+    "descricao": "O Homem de Ferro enfrenta um novo inimigo, o Mandarim, que lança uma série de ataques terroristas. Quando seu mundo é destruído, Stark embarca em uma jornada angustiante para encontrar os responsáveis.",
+    "data_lancamento": "2013",
+    "link_oficial": "https://www.marvel.com/movies/iron-man-3",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman3_lob_crd_01_3.jpg",
+    "elenco": ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Ben Kingsley"]
+  },
+  {
+    "nome": "Thor: O Mundo Sombrio",
+    "descricao": "Thor luta para restaurar a ordem no cosmos, mas uma antiga raça liderada pelo vingativo Malekith retorna para mergulhar o universo de volta na escuridão. Ele deve se unir a Jane Foster e até mesmo a seu traiçoeiro irmão Loki.",
+    "data_lancamento": "2013",
+    "link_oficial": "https://www.marvel.com/movies/thor-the-dark-world",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorthedarkworld_lob_crd_01_3.jpg",
+    "elenco": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Christopher Eccleston"]
+  },
+  {
+    "nome": "Capitão América: O Soldado Invernal",
+    "descricao": "Steve Rogers se une a Natasha Romanoff, a Viúva Negra, para combater uma conspiração sombria dentro da S.H.I.E.L.D. enquanto enfrenta um misterioso assassino conhecido como o Soldado Invernal.",
+    "data_lancamento": "2014",
+    "link_oficial": "https://www.marvel.com/movies/captain-america-the-winter-soldier",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericathewintersoldier_lob_crd_01_3.jpg",
+    "elenco": ["Chris Evans", "Scarlett Johansson", "Sebastian Stan", "Anthony Mackie"]
+  },
+  {
+    "nome": "Guardiões da Galáxia",
+    "descricao": "Um grupo de desajustados intergalácticos, incluindo Peter Quill, Gamora, Drax, Rocket e Groot, precisa se unir para impedir um fanático guerreiro de destruir o universo.",
+    "data_lancamento": "2014",
+    "link_oficial": "https://www.marvel.com/movies/guardians-of-the-galaxy",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxy_lob_crd_01_4.jpg",
+    "elenco": ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Vin Diesel", "Bradley Cooper"]
+  },
+  {
+    "nome": "Vingadores: Era de Ultron",
+    "descricao": "Quando Tony Stark tenta reiniciar um programa de manutenção da paz, as coisas dão errado e os Vingadores precisam impedir que o vilão Ultron execute seus planos terríveis.",
+    "data_lancamento": "2015",
+    "link_oficial": "https://www.marvel.com/movies/avengers-age-of-ultron",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersageofultron_lob_crd_01_3.jpg",
+    "elenco": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner"]
+  },
+  {
+    "nome": "Homem-Formiga",
+    "descricao": "O ladrão Scott Lang deve abraçar seu herói interior e ajudar seu mentor, Dr. Hank Pym, a proteger o segredo por trás de seu espetacular traje de Homem-Formiga de uma nova geração de ameaças.",
+    "data_lancamento": "2015",
+    "link_oficial": "https://www.marvel.com/movies/ant-man",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-man_lob_crd_01_3.jpg",
+    "elenco": ["Paul Rudd", "Michael Douglas", "Evangeline Lilly", "Corey Stoll"]
+  },
+  {
+    "nome": "Capitão América: Guerra Civil",
+    "descricao": "Uma interferência política nas atividades dos Vingadores causa uma divisão entre o Capitão América e o Homem de Ferro, colocando-os em lados opostos de um confronto épico.",
+    "data_lancamento": "2016",
+    "link_oficial": "https://www.marvel.com/movies/captain-america-civil-war",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericacivilwar_lob_crd_01_4.jpg",
+    "elenco": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Sebastian Stan", "Anthony Mackie"]
+  },
+  {
+    "nome": "Doutor Estranho",
+    "descricao": "Um ex-neurocirurgião embarca em uma jornada de cura, apenas para ser atraído para o mundo das artes místicas e se tornar o Mago Supremo da Terra.",
+    "data_lancamento": "2016",
+    "link_oficial": "https://www.marvel.com/movies/doctor-strange",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrange_lob_crd_01_3.jpg",
+    "elenco": ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams", "Mads Mikkelsen"]
+  },
+  {
+    "nome": "Guardiões da Galáxia Vol. 2",
+    "descricao": "Os Guardiões lutam para manter sua recém-descoberta família unida enquanto desvendam os mistérios da verdadeira filiação de Peter Quill.",
+    "data_lancamento": "2017",
+    "link_oficial": "https://www.marvel.com/movies/guardians-of-the-galaxy-vol-2",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvol.2_lob_crd_01_3.jpg",
+    "elenco": ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Vin Diesel", "Bradley Cooper"]
+  },
+  {
+    "nome": "Homem-Aranha: De Volta ao Lar",
+    "descricao": "Peter Parker tenta equilibrar sua vida como um estudante do ensino médio com sua identidade de super-herói Homem-Aranha, enquanto enfrenta uma nova ameaça, o Abutre.",
+    "data_lancamento": "2017",
+    "link_oficial": "https://www.marvel.com/movies/spider-man-homecoming",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manhomecoming_lob_crd_01_3.jpg",
+    "elenco": ["Tom Holland", "Michael Keaton", "Robert Downey Jr.", "Marisa Tomei"]
+  },
+  {
+    "nome": "Thor: Ragnarok",
+    "descricao": "Preso do outro lado do universo, Thor precisa correr contra o tempo para voltar a Asgard e impedir o Ragnarok, a destruição de seu mundo, nas mãos de uma nova e poderosa ameaça, a implacável Hela.",
+    "data_lancamento": "2017",
+    "link_oficial": "https://www.marvel.com/movies/thor-ragnarok",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorragnarok_lob_crd_01_3.jpg",
+    "elenco": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett", "Mark Ruffalo"]
+  },
+  {
+    "nome": "Pantera Negra",
+    "descricao": "T'Challa, herdeiro do reino de Wakanda, retorna para casa para assumir seu lugar como rei. No entanto, um poderoso inimigo antigo reaparece, e o poder de T'Challa como rei e Pantera Negra é testado.",
+    "data_lancamento": "2018",
+    "link_oficial": "https://www.marvel.com/movies/black-panther",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpanther_lob_crd_01_4.jpg",
+    "elenco": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o", "Danai Gurira"]
+  },
+  {
+    "nome": "Vingadores: Guerra Infinita",
+    "descricao": "Os Vingadores e seus aliados devem estar dispostos a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que sua onda de devastação e ruína coloque um fim ao universo.",
+    "data_lancamento": "2018",
+    "link_oficial": "https://www.marvel.com/movies/avengers-infinity-war",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersinfinitywar_lob_crd_01_5.jpg",
+    "elenco": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Josh Brolin"]
+  },
+  {
+    "nome": "Homem-Formiga e a Vespa",
+    "descricao": "Enquanto Scott Lang lida com as consequências de suas escolhas como super-herói e pai, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente.",
+    "data_lancamento": "2018",
+    "link_oficial": "https://www.marvel.com/movies/ant-man-and-the-wasp",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-manandthewasp_lob_crd_01_3.jpg",
+    "elenco": ["Paul Rudd", "Evangeline Lilly", "Michael Douglas", "Hannah John-Kamen"]
+  },
+  {
+    "nome": "Capitã Marvel",
+    "descricao": "Carol Danvers se torna uma das heroínas mais poderosas do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas.",
+    "data_lancamento": "2019",
+    "link_oficial": "https://www.marvel.com/movies/captain-marvel",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainmarvel_lob_crd_01_3.jpg",
+    "elenco": ["Brie Larson", "Samuel L. Jackson", "Ben Mendelsohn", "Jude Law"]
+  },
+  {
+    "nome": "Vingadores: Ultimato",
+    "descricao": "Após os eventos devastadores de 'Guerra Infinita', os Vingadores restantes se reúnem para reverter as ações de Thanos e restaurar o equilíbrio do universo.",
+    "data_lancamento": "2019",
+    "link_oficial": "https://www.marvel.com/movies/avengers-endgame",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_01_5.jpg",
+    "elenco": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner"]
+  },
+  {
+    "nome": "Homem-Aranha: Longe de Casa",
+    "descricao": "Após os eventos de 'Ultimato', Peter Parker vai em uma viagem escolar para a Europa, mas seus planos de férias são interrompidos quando Nick Fury o recruta para investigar misteriosos ataques elementais.",
+    "data_lancamento": "2019",
+    "link_oficial": "https://www.marvel.com/movies/spider-man-far-from-home",
+    "foto": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfarfromhome_lob_crd_01_3.jpg",
+    "elenco": ["Tom Holland", "Samuel L. Jackson", "Zendaya", "Jake Gyllenhaal"]
+  }
+
+]
